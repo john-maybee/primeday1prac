@@ -1,7 +1,13 @@
+p {
+    font: arial, helvetica;   
+}
+
 h1 {
+    font: arial, helvetica;
     color:green;
 }
 
 h3 {
+    font: arial, helvetica;
     color:darkgoldenrod;
 }
