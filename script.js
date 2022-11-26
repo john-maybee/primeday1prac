@@ -14,12 +14,11 @@ let firstName='John';
 
 console.log(firstName);
 
-let weather='rainy';
-let sky='bright';
-let mood='';
+//declare and initialize a variable
 
-if (weather === 'rainy' || sky === 'dark'){
-    mood = 'happy';
-} else {
-    mood = 'sad';
-}
+let testVar= 9;
+
+console.log(testVar);
+
+console.log('the value of testVar is', testVar);
+
